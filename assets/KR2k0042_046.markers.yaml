@@ -23,6 +23,7 @@ markers:
   - {type: line-break, offset: 11, content: '', id: KR2k0042_WYG_046-1a04}
   - {type: indent, offset: 11, content: 　　　, id: KR2k0042_krp_046-bkkind3}
   - {type: punctuation, offset: 13, content: (, id: KR2k0042_krp_046-bkkpn1}
+  - {type: voice, offset: 13, length: 7, name: note, id: n1}
   - {type: punctuation, offset: 17, content: /, id: KR2k0042_krp_046-bkkpn2}
   - {type: punctuation, offset: 20, content: ), id: KR2k0042_krp_046-bkkpn3}
   - {type: 'kr:newline', offset: 20, content: '
@@ -3503,11 +3504,13 @@ markers:
   - {type: line-break, offset: 8065, content: '', id: KR2k0042_WYG_046-38b05}
   - {type: indent, offset: 8065, content: 　　, id: KR2k0042_krp_046-bkkind644}
   - {type: punctuation, offset: 8076, content: (, id: KR2k0042_krp_046-bkkpn4}
+  - {type: voice, offset: 8076, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 8077, content: /, id: KR2k0042_krp_046-bkkpn5}
   - {type: punctuation, offset: 8077, content: ), id: KR2k0042_krp_046-bkkpn6}
   - {type: substitution, offset: 8078, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19438}}
   - {type: substitution, offset: 8082, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16470}}
   - {type: punctuation, offset: 8083, content: (, id: KR2k0042_krp_046-bkkpn7}
+  - {type: voice, offset: 8083, length: 255, name: note, id: n3}
   - {type: punctuation, offset: 8084, content: /, id: KR2k0042_krp_046-bkkpn8}
   - {type: punctuation, offset: 8085, content: ), id: KR2k0042_krp_046-bkkpn9}
   - {type: 'kr:newline', offset: 8085, content: '
@@ -3834,4 +3837,4 @@ markers:
 
       ', id: KR2k0042_krp_046-bkkkrnewl737}
   back: []
-hash: sha256:63aedb0e7d0418ba1cf002be966dc517054bfbb60ae8babfd3ecb7c13cf35ab1
+hash: sha256:191a8618f7fd6b1f528d118a234a3dbd14268763ad01a0ea729618e67f336c94
